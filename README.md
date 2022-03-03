@@ -1,4 +1,4 @@
 # Rear-Radar-Config-Tool
 
-click ==Code== please download the file as .zip
+Please click on the **Code** first and then click on **Download**.
 ![logging](download.png)
